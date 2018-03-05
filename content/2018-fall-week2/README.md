@@ -13,10 +13,14 @@
 
 ### Schedules
 
+- **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**
+    - Reference: 
+- Uncertainty Estimation via Stochastic Batch Normalization
+- 
 
 - **Deep Learning and the Information Bottleneck Principle**
 	- Reference: Zhihu https://zhuanlan.zhihu.com/p/32718190
-- ****
+
 
 
 Optional:
