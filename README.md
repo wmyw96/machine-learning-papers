@@ -1,4 +1,4 @@
-# Machine Learning Papers
+# Machine Learning Readings
 Paper to Read and Corresponding Notes for Machine Learning.
 
 ## Syllabus
