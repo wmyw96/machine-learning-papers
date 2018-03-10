@@ -7,7 +7,7 @@
 
 ### Schedule
 
-- **Regularizing CNNs with Locally Constrained Decorrelations**
+- Regularizing CNNs with Locally Constrained Decorrelations
 - **Understanding Deep Learning Requires Rethinking Generalization**
 - **Understanding the black-box predictions via influence functions**
 - **Deep Learning and the Information Bottleneck Principle**
