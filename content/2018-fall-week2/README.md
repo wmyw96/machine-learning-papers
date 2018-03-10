@@ -2,9 +2,7 @@
 
 ### Main Topic
 
-(1) The generalization ability of deep learning.
-
-(2) Machine Learning Tricks: Batch Normalization
+(1) Machine Learning Tricks: Batch Normalization
 
 - The original algorithm
 - Variations for different models
@@ -14,15 +12,6 @@
 ### Schedules
 
 - **Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift**
-    - Reference: 
+    - Zhihu (Why BN works) https://www.zhihu.com/question/38102762
 - Uncertainty Estimation via Stochastic Batch Normalization
 - Recurrent Batch Normalization
-
-- **Deep Learning and the Information Bottleneck Principle**
-	- Reference: Zhihu https://zhuanlan.zhihu.com/p/32718190
-
-
-
-Optional:
-
-- *Generalization in Deep Learning*
