@@ -1,5 +1,5 @@
 # Machine Learning Readings
-Paper to Read and Corresponding Notes for Machine Learning.
+Reading Materials to Read and Corresponding Notes for Machine Learning.
 
 ## Syllabus
 
