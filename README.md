@@ -7,6 +7,10 @@ Reading Materials to Read and Corresponding Notes for Machine Learning.
 - [2018 Spring Week 2](content/2018-fall-week2/README.md) (from 2018-03-04 to 2018-03-10)
 - 2018 Spring Week 3 (from 2018-03-11 to 2018-03-17)
 
+## Textbooks or Long Materials
+
+- Statistical 
+
 ## Category
 
 - Variational AutoEncoder
